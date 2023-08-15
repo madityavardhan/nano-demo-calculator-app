@@ -31,6 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The Crow logo and other graphic material (excluding third party logos) used are under exclusive Copyright (c) 2021-2022, Farook Al-Sammarraie (The-EDev), All rights reserved.
 */
+#include <bits/stdc++.h>
 #pragma once
 // This file is generated from nginx/conf/mime.types using nginx_mime2cpp.py on 2021-12-03.
 #include <unordered_map>
